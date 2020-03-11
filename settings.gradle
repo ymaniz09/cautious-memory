@@ -1,0 +1,2 @@
+rootProject.name='CautiousMemory'
+include ':app'
